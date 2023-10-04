@@ -56,7 +56,6 @@ public class Matrix {
                 return false;
             }
         }
-
         return true;
     }
 }

@@ -13,7 +13,7 @@ public class Products {
         List<Product> products = new ArrayList<>();
         products.add(new Food("Apple", "Fruit Co.", 2.5, 0.2, "2023-12-31"));
         products.add(new Clothing("T-Shirt", "Clothing Inc.", 15.0, "Cotton", "M"));
-        products.add(new Food("Banana", "Fruit Co.", 1.0, 0.15, "2023-12-29"));
+        products.add(new Food("Banana", "Fruit Co.", 1.0, 0.15, "2023-12-31"));
         products.add(new Clothing("Jeans", "Clothing Inc.", 50.0, "Denim", "L"));
         products.add(new Clothing("Jeans", "Clothing Inc.", 50.0, "Denim", "M"));
         products.add(new Food("Milk", "Dairy Co.", 3.0, 1.0, "2023-09-30"));
